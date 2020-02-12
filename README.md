@@ -1,7 +1,8 @@
 # HCI_CSA
-**IMPORTANT: Homeworks should be in a pdf file.**
-**File's name should be: CSA-HCI_GroupName_SessionNumber**
-**E-mail's subject should be the same** 
+
+**IMPORTANT: Homeworks should be in a pdf file.** <br>
+**File name should be: CSA-HCI_GroupName_SessionNumber.pdf** <br>
+**E-mail subject should be the same** <br>
 (e.g. *CSA-HCI_G1_S1.pdf* for attached file.)
 ---
 * # Session 1: 04/02/2020 
