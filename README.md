@@ -4,6 +4,7 @@
 **File name should be: CSA-HCI_GroupName_SessionNumber.pdf** <br>
 **E-mail subject should be the same** <br>
 (e.g. *CSA-HCI_G1_S1.pdf* for attached file.)
+
 ---
 * # Session 1: 04/02/2020 
   * [Slides are here](https://cloud.irit.fr/index.php/s/G3HBjYy4RF3ZXQW)
