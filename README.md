@@ -17,7 +17,7 @@
 ---
 * # Session 3: 25/02/2020 
    * [Slides should be here]
-   * [Project document is here] (https://cloud.irit.fr/index.php/s/zPyHe7WlbLYVz4R)
+   * [Project document is here](https://cloud.irit.fr/index.php/s/zPyHe7WlbLYVz4R)
 # Groups:
 * G1:
   * Ehsan
