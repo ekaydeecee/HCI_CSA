@@ -15,6 +15,9 @@
   * [Slides are here](https://cloud.irit.fr/index.php/s/CJWL5fzWdrGSjiS)
   * HW Deadline: 15/02/2020 @ midnight
 ---
+* # Session 3: 25/02/2020 
+   * [Slides should be here]
+   * [Project document is here] (https://cloud.irit.fr/index.php/s/zPyHe7WlbLYVz4R)
 # Groups:
 * G1:
   * Ehsan
