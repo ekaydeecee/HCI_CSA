@@ -28,7 +28,7 @@
 * # Extra important ressources
    * [Prototyping](https://www.interaction-design.org/literature/topics/prototyping)
    * [UX Evaluation Heuristics](https://www.youtube.com/watch?v=sa5lswRd7Q8)
-   * [Experiment design (Borad view)](https://www.youtube.com/watch?v=DaBq0naj0YY&t=63s)
+   * [Experiment design (Broad view)](https://www.youtube.com/watch?v=DaBq0naj0YY&t=63s)
 
 # Groups:
 * G1:
